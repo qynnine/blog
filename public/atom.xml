@@ -3,19 +3,18 @@
   <title><![CDATA[乗月]]></title>
   <link href="http://niejia.org/atom.xml" rel="self"/>
   <link href="http://niejia.org"/>
-  <updated>2013-08-09T06:37:01.299Z</updated>
+  <updated>2013-12-28T14:43:41.542Z</updated>
   <id>http://niejia.org/</id>
   <author>
     <name><![CDATA[乗月]]></name>
   </author>
   <generator uri="http://zespia.tw/hexo">Hexo</generator>
   <entry>
-    <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://niejia.org/2013/08/06/hello-world/"/>
-    <id>http://niejia.org/2013/08/06/hello-world/</id>
-    <published>2013-08-05T17:03:22.000Z</published>
-    <updated>2013-08-05T17:03:22.000Z</updated>
-    <content type="html"><![CDATA[<p>Welcome to <a href="http://zespia.tw/hexo">Hexo</a>! This is your very first post. Check <a href="http://zespia.tw/hexo/docs">documentation</a> to learn how to use.</p>
-]]></content>
+    <title type="html"><![CDATA[my test]]></title>
+    <link href="http://niejia.org/2013/12/28/my-test/"/>
+    <id>http://niejia.org/2013/12/28/my-test/</id>
+    <published>2013-12-28T14:04:39.000Z</published>
+    <updated>2013-12-28T14:04:39.000Z</updated>
+    <content type="html"><![CDATA[]]></content>
   </entry>
 </feed>

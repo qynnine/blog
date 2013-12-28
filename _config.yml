@@ -77,6 +77,7 @@ exclude_generator:
 # Deployment
 ## Docs: http://zespia.tw/hexo/docs/deploy.html
 deploy:
+  deploy:
   type: github
-  repository: https://github.com/qynnine/qynnine.github.com.git
-  branch: master
+  repository: git@gitcafe.com:qynnine/qynnine.git
+  branch: gitcafe-pages
